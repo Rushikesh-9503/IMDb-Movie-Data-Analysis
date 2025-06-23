@@ -14,4 +14,4 @@ This project uses the IMDb movie dataset to explore and analyze movie trends, ra
 ## 🚀 Tools Used
 - Python
 - Pandas
-- Matplotlib / Seaborn (if used)
+- Matplotlib & Seaborn 
